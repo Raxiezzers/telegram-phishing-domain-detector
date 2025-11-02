@@ -151,14 +151,6 @@ Botu yönetmek için Telegram grubunuzda aşağıdaki komutları kullanabilirsin
 
 
 
-📁 Dosya Yapısı
-.
-├── monitor_bot.py                 # Ana bot kodu
-├── requirements.txt               # Gerekli Python kütüphaneleri
-├── domains.txt                    # (Sizin oluşturmanız gerekir) İzlenecek domain listesi
-│
-├── found_suspicious_domains.txt   # (Otomatik oluşur) Bulunan şüpheli domainlerin kaydı
-└── monitor.log                    # (Otomatik oluşur) Botun çalışma kayıtları (logları)
 
 
 ⚖️ Lisans
