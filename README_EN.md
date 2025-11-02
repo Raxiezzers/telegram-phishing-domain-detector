@@ -58,6 +58,7 @@ Bash
 
 git clone https://github.com/Raxiezzers/telegram-phishing-domain-detector.git
 cd telegram-phishing-domain-detector
+
 2. (Recommended) Create a Virtual Environment:
 
 Bash
