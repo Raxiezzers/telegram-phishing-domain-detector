@@ -58,7 +58,8 @@ Projeyi çalıştırmak için aşağıdaki adımları izleyin:
 
 Bash
 
-git clone https://github.com/SENIN_KULLANICI_ADIN/telegram-phishing-domain-detector.git
+git clone https://github.com/Raxiezzers/telegram-phishing-domain-detector.git
+
 cd telegram-phishing-domain-detector
 
 
