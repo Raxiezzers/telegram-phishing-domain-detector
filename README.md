@@ -118,10 +118,16 @@ GROUP_CHAT_ID = "-100ILE_BASLAYAN_GRUP_ID_GIRIN"
 Örnek domains.txt içeriği:
 
 google.com
+
 ornek-bankasi-giris.com
+
 facebook.com
+
 benim-sitem.net
+
 login-hesap-dogrulama.org
+
+
 2. Botu Başlatın: Terminal üzerinden aşağıdaki komut ile botu başlatın.
 
 Bash
