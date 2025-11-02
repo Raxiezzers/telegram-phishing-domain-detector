@@ -1,4 +1,6 @@
 Telegram Phishing Domain Detector
+
+
 Bu proje, belirlenen bir domain listesini sürekli olarak izleyen ve phishing (oltalama) belirtileri gösteren web sitelerini tespit eden gelişmiş bir Python botudur. Şüpheli bir domain bulunduğunda, bot anında Telegram üzerinden ilgili gruba tüm analiz detaylarını içeren bir uyarı mesajı gönderir.
 
 🌟 Temel Özellikler
