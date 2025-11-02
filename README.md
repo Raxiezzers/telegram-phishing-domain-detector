@@ -133,6 +133,8 @@ login-hesap-dogrulama.org
 Bash
 
 python monitor_bot.py
+
+
 Bot başarıyla başlatıldığında terminalde "BOT ÇALIŞIYOR!" mesajını göreceksiniz.
 
 
